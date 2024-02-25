@@ -40,7 +40,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/nkshey/3-column-preview-card](https://github.com/nkshey/3-column-preview-card)
-- Live Site URL: [Live]()
+- Live Site URL: [Live](https://nkshey.github.io/3-column-preview-card/)
 
 ## My process
 
